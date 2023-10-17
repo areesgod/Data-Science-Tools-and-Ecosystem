@@ -20,7 +20,7 @@
 ![image](https://github.com/areesgod/Data-Science-Tools-and-Ecosystem/assets/73094827/38a57900-eaf4-4f73-be14-810c5c46ee6e)
 
 # 7. Multiply and Adding
-![image](https://github.com/areesgod/Data-Science-Tools-and-Ecosystem/assets/73094827/3a0e9283-9e2b-466f-9de8-74f53069df8d)
+![image](https://github.com/areesgod/Data-Science-Tools-and-Ecosystem/assets/73094827/7df70638-3903-4bfb-8f55-76264c6d7a63)
 
 # 8. Hours to Minutes
 ![image](https://github.com/areesgod/Data-Science-Tools-and-Ecosystem/assets/73094827/0275de66-8532-4dbb-a2d9-4dfe0df376f8)
